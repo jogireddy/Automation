@@ -12,8 +12,7 @@ const checkStockPromise = new Promise((resolve, reject) => {
 
 });
 
-//consuming the promise
-
+//consuming the promise   function will be replaces wirh ()=> syntax
 checkStockPromise
 .then((successMessage)=> console.log("Success: " + successMessage))
 .catch((errorMessage)=> console.log("Error: " + errorMessage))
