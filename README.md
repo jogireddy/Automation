@@ -17,6 +17,7 @@ A comprehensive JavaScript learning repository covering fundamental concepts to 
 - **Chapter 16 - Callbacks** (`Chapter16_Callback/`) - Callback functions and callback patterns
 - **Chapter 17 - Promises** (`Chapter17_Promises/`) - Promise fundamentals and patterns
 - **Chapter 18 - Async/Await** (`Chapter18_Async_Await/`) - Async functions and await syntax
+- **Chapter 21 - Classes and Objects** (`chapter21_Classes_and_Objects/`) - Class syntax, static methods, access modifiers, and real-world examples
 - **Chapter 22 - Encapsulation** (`Chapter22_Encapsulation/`) - Object encapsulation principles
 - **Chapter 23 - Inheritance** (`Chapter23_Inheritance/`) - Single, hierarchical, and multiple inheritance
 - **Chapter 24 - OOPS Interview Questions** (`Chapter24_OOPS_interviewques/`) - Common OOP interview questions
